@@ -1,7 +1,7 @@
-<h1 align="center">💎TMB {TikTok Mass Botting}</h1>
+<h1 align="center">Hidden TMB</h1>
 
 <p align='center'>
-  <b>Star ⭐ if you want more</b><br>
+  <b>Custom Tiktok Mass Botting with hidden (making for less ignorants)</b><br>
 </p>
 
 
